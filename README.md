@@ -1,3 +1,5 @@
+## 🙋🏼‍♂️ About Me
+
 - 👋 Hi, I’m @maxdevocht
 - 👀 I’m interested in coding, coding and coding..
 - 🌱 I’m currently learning new things, mostly coding..
