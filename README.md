@@ -7,6 +7,6 @@
 
 ## 🎓 Tools
 
-**Frontend Development:** `HTML` `CSS` `JavaScript` `REACT`
+**Frontend Development:** `HTML` `CSS` `JavaScript` `ReactJS`
  
 **Version Control:** `Git` `Github` `Github Desktop`
