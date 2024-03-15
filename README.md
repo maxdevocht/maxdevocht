@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning new things, mostly coding..
 - 📫 How to reach me; maxdevocht@hotmail.com
 
-## 🎓 Tools
+## 🎓 Skills
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `ReactJS`
  
