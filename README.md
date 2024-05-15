@@ -8,6 +8,6 @@
 
 ## 🎓 Skills
 
-**Frontend Development:** `HTML` `CSS` `JavaScript` `ReactJS`
+**Frontend Development:** `HTML` `CSS` `TailwindCSS` `JavaScript` `ReactJS`
  
 **Version Control:** `Git` `Github` `Github Desktop`
