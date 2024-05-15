@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding, coding and coding..
 - 🌱 I’m currently learning new things, mostly coding..
 - 📫 How to reach me; maxdevocht@hotmail.com
-- 🌐 https://maxdevocht.netlify.app
+- 🌐 Portfolio https://maxdevocht.netlify.app
 
 ## 🎓 Skills
 
